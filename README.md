@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hahaha
+It's a trap!
